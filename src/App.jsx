@@ -161,8 +161,8 @@ export default function App() {
   const outcomes = useMemo(
     () => [
       {
-        index: 1,
-        amount: 10,
+        index: 7,
+        amount: 75,
       },
       {
         index: 7,
